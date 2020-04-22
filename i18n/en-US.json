@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Home"
+  },
+  "user": {
+    "lists": "Lists",
+    "favorites" : "Favorites",
+    "downloads" : "Downloads",
+    "preferences" : "Preferences",
+    "darkMode" : "Dark mode",
+    "wifiOnly" : "Wi-Fi Only",
+    "playInBackground" : "Play in background",
+    "allowNotifications" : "Allow notifications",
+    "account" : "Account",
+    "profileSettings" : "Profile settings",
+    "billing" : "Billing",
+    "help" : "Help",
+    "reportProblem" : "Report a problem",
+    "logout" : "Logout"
+  },
+  "video": {
+    "subscribe": "Subscribe",
+    "signUp": "Sign Up"
+  },
+  "subscription": {
+    "startTrial": "Start a free 7 days trial",
+    "afterTrial": "${price}/mo after trial. Cancel anytime.",
+    "signIn": "Sign in",
+    "restorePurchases": "Restore Purchases",
+    "terms": "Terms",
+    "privacyPolicy": "Privacy policy"
+  },
+  "registration": {
+    "welcome": "WELCOME!",
+    "startBy": "Start exploring our catalog by signing up",
+    "shouldHavePassword": "You should have a password",
+    "emailAddress": "Email address",
+    "password": "Password",
+    "signUp": "Sign Up"
+  },
+  "search": {
+    "hint": "Search..."
+  }
+}

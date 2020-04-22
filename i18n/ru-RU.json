@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Главная"
+  },
+  "user": {
+    "lists": "Списки",
+    "favorites" : "Избранное",
+    "downloads" : "Загрузки",
+    "preferences" : "Настройки",
+    "darkMode" : "Темный режим",
+    "wifiOnly" : "Wi-Fi режим",
+    "playInBackground" : "Проигрывать в фоне",
+    "allowNotifications" : "Разрешить оповещения",
+    "account" : "Аккаунт",
+    "profileSettings" : "Настройки профиля",
+    "billing" : "Биллинг",
+    "help" : "Помощь",
+    "reportProblem" : "Сообщить о проблеме",
+    "logout" : "Выйти"
+  },
+  "video": {
+    "subscribe": "Подписаться",
+    "signUp": "Зарегистрироваться"
+  }
+}

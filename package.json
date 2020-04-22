@@ -21,7 +21,7 @@
     "onCommand:flutterI18nAutoTranslate"
   ],
   "license": "MIT",
-  "main": "./out/extension.js",
+  "main": "./out/main.js",
   "contributes": {
     "commands": [
       {
@@ -54,6 +54,8 @@
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
+    "try-it": "node out/main.js",
+    "build": "npm build .",
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "npm run compile && node ./node_modules/vscode/bin/test"
   },
